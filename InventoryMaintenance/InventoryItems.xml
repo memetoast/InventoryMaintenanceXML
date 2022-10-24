@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InvItem>
+    <InvItem ItemNo="23">
+        <Description>This is a test</Description>
+        <Price>100.00</Price>
+    </InvItem>
+</InvItem>
